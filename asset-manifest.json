@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01da0c4a.css",
+    "main.js": "/static/js/main.56564e57.js",
+    "static/js/453.2e2e11d4.chunk.js": "/static/js/453.2e2e11d4.chunk.js",
+    "static/media/biulogo1.png": "/static/media/biulogo1.72b7fc159b75fd87745a.png",
+    "index.html": "/index.html",
+    "main.01da0c4a.css.map": "/static/css/main.01da0c4a.css.map",
+    "main.56564e57.js.map": "/static/js/main.56564e57.js.map",
+    "453.2e2e11d4.chunk.js.map": "/static/js/453.2e2e11d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01da0c4a.css",
+    "static/js/main.56564e57.js"
+  ]
+}
